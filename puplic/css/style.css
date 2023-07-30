@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: rgb(204, 204, 204);
+}
+.header a{
+    padding: 50px 0px 0px 20px; 
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+.header{
+    background-color: rgb(207, 207, 207);
+    height: 80px;
+
+}
